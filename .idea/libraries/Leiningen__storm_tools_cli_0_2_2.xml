@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: storm:tools.cli:0.2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/storm/tools.cli/0.2.2/tools.cli-0.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

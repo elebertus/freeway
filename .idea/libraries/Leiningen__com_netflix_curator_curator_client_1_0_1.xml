@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.netflix.curator:curator-client:1.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/curator/curator-client/1.0.1/curator-client-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
